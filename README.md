@@ -1,2 +1,2 @@
 # ngx-status
-A Lua module for NGINX that extends stub_status
+A module for Lua enabled NGINX that extends stub_status
